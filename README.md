@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"></h1>
 <table width="100%" border="0">
   <tr>
-    <td>
+    <td border="0">
       <img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true"/>
     </td>
     <td>
