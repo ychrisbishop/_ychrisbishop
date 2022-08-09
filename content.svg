@@ -85,7 +85,6 @@
         }
         .item {
           width: 100%;
-          background-image: url(https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true)
         }
         img {
           width: 100%;
@@ -94,6 +93,7 @@
 			</style>
       <h1>Welcome</h1>
       <div class="item">
+        <image href="https://github-readme-stats.vercel.app/api?username=Ychrisbishop" height="200" width="200"/>
       </div>
       <h2>to chrisbishop</h2>
 		</div>
