@@ -88,11 +88,12 @@
         }
         img {
           width: 100%;
+          height: 150px;
         }
 			</style>
       <h1>sdfsdf</h1>
       <div class="item">
-        <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true" alt="" />
       </div>
 		</div>
 	</foreignObject>
