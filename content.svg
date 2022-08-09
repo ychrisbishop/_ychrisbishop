@@ -80,11 +80,28 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+        .info {
+          gap: 24px;
+        }
+        .item {
+          width: 100%;
+        }
+        img {
+          width: 100%
+        }
 			</style>
 			<!-- <div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 			</div> -->
+      <div class="container info">
+        <div class="item">
+          <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true"/>
+        </div>
+        <div class="item">
+          <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
+        </div>
+      </div>
 		</div>
 	</foreignObject>
 </svg>
