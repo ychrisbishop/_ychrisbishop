@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
 <img height="150px" />
 <html>
+  <style>
+    .body {
+      border: 1px solid red;
+    }
+  </style>
   <body class="body">
     <h1>dfdfd</h1>
   </body>
