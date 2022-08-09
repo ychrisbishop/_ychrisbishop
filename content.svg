@@ -90,10 +90,6 @@
           width: 100%;
         }
 			</style>
-			<!-- <div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-			</div> -->
       <div class="container info">
         <div class="item">
           <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true"/>
