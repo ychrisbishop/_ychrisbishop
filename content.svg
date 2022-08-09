@@ -90,14 +90,7 @@
           width: 100%;
         }
 			</style>
-      <div class="container info">
-        <div class="item">
-          <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&count_private=true"/>
-        </div>
-        <div class="item">
-          <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
-        </div>
-      </div>
+      <h1>sdfsdf</h1>
 		</div>
 	</foreignObject>
 </svg>
