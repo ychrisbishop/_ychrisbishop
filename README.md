@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&include_all_commits=false&count_private=true"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
 </div>
-<img height="150px" />
+<img height="50px" />
+<pre> GitHub's Contribution Graph </pre>
+<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
+    <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
+</a>
 <br/>  
 
 
