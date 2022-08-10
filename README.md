@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"></h1>
        <pre> Kris's Github Data Statistics</pre>
 <div align="left">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&include_all_commits=false&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
 </div>
 <img height="0px" />
