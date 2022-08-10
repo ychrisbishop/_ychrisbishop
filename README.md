@@ -20,7 +20,7 @@ Here are some ideas to get you started:
        <pre> Kris's Github Data Statistics</pre>
 <div align="left">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ychrisbishop&show_icons=true&include_all_commits=false&count_private=true"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true&include_all_commits=true" />
 </div>
 <img height="0px" />
 <pre> Kris's Github Contribution Graph </pre>
