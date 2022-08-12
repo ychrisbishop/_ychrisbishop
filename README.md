@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <h1 align="center"></h1>
        <pre> Adonis's Github Data Statistics</pre>
 <div align="left">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=adonis923&show_icons=true&include_all_commits=false&count_private=true"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis923&layout=compact&count_private=true&include_all_commits=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=ychrisbishop&show_icons=true&include_all_commits=false&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychrisbishop&layout=compact&count_private=true&include_all_commits=true" />
 </div>
 <img height="0px" />
 <pre> Adonis's Github Contribution Graph </pre>
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
-    <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adonis923&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
+    <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ychrisbishop&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
 </a>
 <br/>  
 
